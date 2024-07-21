@@ -17,7 +17,8 @@ I decided to separate the processes into 3 different part:
 
 ![image](https://github.com/user-attachments/assets/fe41035a-905e-4425-9040-0d5721a61e83)
 
-![image](https://github.com/user-attachments/assets/3a2dc7bd-3586-49cc-894f-144d1e7a7c79)
+![image](https://github.com/user-attachments/assets/eae1454f-d0ce-4f20-bee9-c08a47a3c34b)
+
 
 
 
